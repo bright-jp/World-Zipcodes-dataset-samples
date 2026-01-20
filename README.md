@@ -1,40 +1,40 @@
 # World Zipcodes Dataset Sample
 
-<h2>A sample dataset of 1,000 records</h2>
+<h2>1,000件のレコードからなるサンプルデータセット</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.jp">
     <img src="https://github.com/luminati-io/BrightData-World-Zipcodes-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **World Zipcodes Dataset Sample** includes **1,000 records** and was extracted using the **Bright Data API**.
+この **World Zipcodes Dataset Sample** には **1,000件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `country` | Indicates the country where the zipcode is located. |
-| `region` | Specifies the region or administrative area within the country. |
-| `city_state` | Describes the city or state corresponding to the zipcode. |
-| `codes_list` | Lists the postal codes associated with the specific city or region. |
+| `country` | zipcode が所在する国を示します。 |
+| `region` | 国内の地域または行政区分を指定します。 |
+| `city_state` | zipcode に対応する市または州を説明します。 |
+| `codes_list` | 特定の市または地域に関連付けられた郵便番号を一覧化します。 |
 
 
 ## Use Cases
 
-### 1. Global Logistics Optimization
-Utilize global zipcode data to enhance routing and delivery efficiency for international logistics companies.
+### 1. グローバル物流の最適化
+グローバルな zipcode データを活用して、国際物流会社のルーティングおよび配送効率を向上させます。
 
-### 2. Market Expansion Analysis
-Analyze zipcode data to identify new market opportunities and consumer demographics for business expansion.
+### 2. 市場拡大分析
+zipコードデータを分析し、事業拡大に向けた新しい市場機会や消費者デモグラフィックを特定します。
 
-### 3. Regional Planning and Development
-Employ postcode datasets in urban planning to improve infrastructure development and resource allocation.
+### 3. 地域計画および開発
+都市計画において postcode データセットを活用し、インフラ開発とリソース配分を改善します。
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+データセットは複数の形式で提供されています:
+- **CSV**（このサンプルに含まれます）
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -54,8 +54,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+データセットはさまざまなスケジュールで更新できます:
+- **Once**（1回限りの配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -64,14 +64,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+特定の要件に基づいて追加のデータポイントでデータセットを強化します。カスタムのエンリッチメントオプションについてはお問い合わせください。
 
-**[Get the full World Zipcodes dataset](https://brightdata.com/products/datasets/geospatial)**
+**[World Zipcodes データセットの全量を取得する](https://brightdata.jp/products/datasets/geospatial)**
 
 ---
 
-## Free Access for Researchers and NGOs
+## 研究者およびNGO向けの無料アクセス
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiative は、環境および社会的課題に取り組む学術研究者、NGO、NPOに対して、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)** および **[すぐに使えるデータセット](https://brightdata.jp/products/datasets)** への無料アクセスを提供しています。 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+無料アクセスは [brightinitiative.com](https://brightinitiative.com) からお申し込みください。
